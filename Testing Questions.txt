@@ -1,0 +1,126 @@
+Which testing technique involves executing tests based on the software's internal code structure?
+
+Black-box testing
+White-box testing @@@
+Grey-box testing
+Alpha testing
+
+What is the purpose of alpha testing?
+
+To evaluate the software's performance in a simulated production environment
+To gather feedback from potential users before releasing the software @@@
+To test the software's compatibility with different hardware configurations
+To verify that the software meets all specified requirements
+
+What is the purpose of sanity testing?
+
+To verify that the software's behavior is consistent across different platforms
+To test the most critical functionalities of an application
+To ensure that the software can handle a high load
+To identify major defects in the software before proceeding with further testing @@@
+
+Which testing technique involves executing tests based on the software's specifications and requirements?
+
+Black-box testing @@@
+White-box testing
+Grey-box testing
+Alpha testing
+
+Which testing technique involves creating test cases based on the software's internal code structure?
+
+Black-box testing
+White-box testing @@@
+Grey-box testing
+ Alpha testing
+
+Identify the term which is not related to testing?
+
+failure
+error
+test case
+Test bot @@@
+
+Identify the incorrect testing technique.
+
+Integration testing
+collaboration Testing @@@
+System Testing
+Unit Testing
+
+Which of the following are types of code review?
+
+Code walkthrough
+Code inspection
+Both A and B @@@
+None
+
+By whom is unit testing done?
+
+Users
+Customers @@@
+Developers
+None
+
+Choose the correct option which represents the key objective of integration testing?
+
+Interface errors @@@
+Procedure errors
+Design errors
+None of the above
+
+Select the best time when regression testing should be done?
+
+As frequently as possible
+When the environment has been modified
+After the software has been modified
+Both b and c are correct @@@
+
+The SRS document is also known as _____________ specification.
+
+Black box @@@
+White box
+Grey box
+Grey box
+
+
+Identify the correct option among the following which is not included in SRS?
+
+Functionality
+Performance
+External interfaces
+Design solutions @@@
+
+Identify the testing which cannot be performed on the first build of the software?
+
+Sanity testing
+Regression testing
+Retesting
+All a, b and c @@@
+
+Identify among the following which is not a type of incremental testing approach.
+
+Big-bang @@@
+Top-down
+Bottom-up
+Functional incrimination
+
+What is the primary goal of manual testing?
+
+To eliminate the need for automated testing
+To find defects within software applications @@@
+To speed up the development process
+To replace the role of developers in testing
+
+Which testing technique involves testing individual units or components of a software application?
+
+System testing
+Integration testing
+Unit testing @@@
+Acceptance testing
+
+What is the purpose of smoke testing?
+
+To validate the functionality of the entire system
+To test the most critical functionalities of an application @@@
+To verify that the software is ready for production
+ To ensure that the application can handle a high load
